@@ -1,5 +1,0 @@
-streamlit
-undetected-chromedriver
-selenium
-pandas
-openpyxl
